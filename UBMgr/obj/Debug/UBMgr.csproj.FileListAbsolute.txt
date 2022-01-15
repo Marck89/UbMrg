@@ -1,0 +1,17 @@
+D:\UBMgr\UBMgr\bin\Debug\UBMgr.exe
+D:\UBMgr\UBMgr\bin\Debug\UBMgr.pdb
+D:\UBMgr\UBMgr\obj\Debug\UBMgr.exe
+D:\UBMgr\UBMgr\obj\Debug\UBMgr.pdb
+E:\ATM Milano SW\UBMgr\UBMgr\obj\Debug\UBMgr.exe
+D:\UBMgr\UBMgr\obj\Debug\UBMgr.csprojResolveAssemblyReference.cache
+E:\ATM Milano SW\UBMgr\UBMgr\obj\Debug\UBMgr.pdb
+E:\ATM Milano SW\UBMgr\UBMgr\bin\Debug\UBMgr.exe
+E:\ATM Milano SW\UBMgr\UBMgr\bin\Debug\UBMgr.pdb
+E:\ATM Milano SW\UBMgr\UBMgr\obj\Debug\UBMgr.csprojResolveAssemblyReference.cache
+C:\Users\st519\Desktop\UCB\UBMgr\UBMgr\obj\Debug\UBMgr.csprojResolveAssemblyReference.cache
+C:\Users\st519\Desktop\UCB\UBMgr\UBMgr\bin\Debug\UBMgr.exe
+C:\Users\st519\Desktop\UCB\UBMgr\UBMgr\bin\Debug\UBMgr.pdb
+C:\Users\st519\Desktop\UCB\UBMgr\UBMgr\obj\Debug\UBMgr.exe
+C:\Users\st519\Desktop\UCB\UBMgr\UBMgr\obj\Debug\UBMgr.pdb
+E:\Ucb-files\UBMgr\UBMgr\obj\Debug\UBMgr.exe
+E:\Ucb-files\UBMgr\UBMgr\obj\Debug\UBMgr.pdb
